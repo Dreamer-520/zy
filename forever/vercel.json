@@ -1,0 +1,1 @@
+{ "rewrites": [ { "source": "/yolo, "destination": "/index.html" } ]}
